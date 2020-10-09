@@ -1,14 +1,12 @@
-;
 //asignar un nombre y versión al cache
 const CACHE_NAME = 'v1_cache_WebBots',
   urlsToCache = [
     './',
-    '/',
     'https://fonts.googleapis.com/css?family=Montserrat:400,700,900|Poppins:400,700,900',
     './assets/css/styles.css',
     './assets/scripts/mainWB.js',
     './assets/scripts/jquery-3.3.1.min.js',
-    './assets/images/Bots1024.png',
+    './assets/images/Bots1024.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
