@@ -3,11 +3,11 @@
 	"short_name": "#WebBots",
 	"description": "Bienvenidos a #WebBots, Te ayudaremos a plasmar tu sueño en la web, y a crear tus Chatbots para que trabajen por ti las 24 horas del días :)",
 	"background_color": "#3cbcfc",
-	"theme_color": "#3cbcfc",
+	"theme_color": "#00bc0c",
 	"orientation": "portrait",
 	"display": "standalone",
-	"start_url": "/?utm_source=web_app_manifest",
-	"scope": "/",
+	"start_url": "./?utm_source=web_app_manifest",
+	"scope": "./",
 	"lang": "es-MX",
 	"icons": [
 		{
