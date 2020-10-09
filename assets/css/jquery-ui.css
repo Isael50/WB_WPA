@@ -8,7 +8,6 @@
 	cursor: pointer;
 	position: relative;
 	margin: 2px 0 0 0;
-	/* padding: .5em .5em .5em .7em; */
 	padding: 10px;
 	font-size: 18px;
 }
@@ -53,9 +52,3 @@ a.ui-button:active,
 	font-weight: normal;
 	color: #ffffff;
 }
-
-
-
-
-
-/* ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content */
